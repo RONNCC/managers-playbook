@@ -4,6 +4,7 @@
 [one-on-ones]: #one-on-ones
 [coaching]: #coaching
 [giving-feedback]: #giving-feedback
+[principles]: #principles
 [thinking-strategically]: #thinking-strategically
 [making-decisions]: #making-decisions
 [ticket-and-pr-process]: #ticket-and-pr-process
@@ -16,6 +17,7 @@
 # Manager's Playbook
 
 Heuristics for effective management.
+Initially forked from [Kamil Sindi](https://github.com/ksindi/managers-playbook)
 
 ## Table of Contents
 
@@ -25,6 +27,7 @@ Heuristics for effective management.
 1. [One-on-ones][one-on-ones]
 1. [Coaching][coaching]
 1. [Giving Feedback][giving-feedback]
+1. [Principles][principles]
 1. [Thinking strategically][thinking-strategically]
 1. [Making decisions][making-decisions]
 1. [Ticket and PR process][ticket-and-pr-process]
@@ -180,6 +183,21 @@ Giving great feedback to reports/managers/peers is one of the most impactful thi
     - "When you did X, I felt Y"
 
 For further reading, see [The rise of feedback: Why feedback skills have become urgent](https://ideas.lifelabslearning.com/the-rise-of-feedback-why-feedback-skills-have-become-urgent) and [Want to get better feedback? Ask a better question. Here’s how.](https://medium.com/lifelabs-learning/want-to-get-better-feedback-ask-a-better-question-heres-how-64d679a598a).
+
+
+## Principles
+
+1. Have a bias for action and decision-making over planning and consensus (Type 1 vs Type 2 Decisions)
+1. Be principled if writing or a quick meeting will help folks to understand and align better.
+    - Recap the meeting after   
+1. Understand how your products are used in the wild - Join sales, support, and user research calls
+1. Work backward from first principles by focusing on the outcomes you want to achieve.
+1. Encourage ownership by asking [open questions][coaching].
+1. Be the biggest cheerleader for your own team. Celebrate success often and reinforce positive behavior. Give public kudos!
+1. Know how to differentiate between [reversible and irreversible decisions][making-decisions] (aka Type 1 vs Type 2)
+1. Ensure every report is aware of the top priorities of the team, organization and company.
+1. No task is beneath a manager. Get your hands dirty even if it's not coding (if it's coding make sure it's never in the critical path):  
+    <img src="images/non-coding-contributions.png" width="400">
 
 ## Thinking strategically
 
