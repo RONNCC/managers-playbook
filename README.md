@@ -123,6 +123,8 @@ Lacking these pillars (credit to Dan Pink), teams risk being less effective and 
 For further reading, check out [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819), which goes deeper into team organization theory.
 
 ### What is a high performing Team?
+
+> A high-performing team sustainably exceeds expectations in achieving clear goals.
 - https://www.mountaingoatsoftware.com/blog/what-is-a-high-performing-agile-team
 
 ## Coaching
