@@ -2,6 +2,7 @@
 [what-makes-a-great-manager]: #what-makes-a-great-engineering-manager
 [how-technical-should-i-be]: #how-technical-should-i-be
 [one-on-ones]: #one-on-ones
+[effective-teams]: #effective-teams
 [coaching]: #coaching
 [giving-feedback]: #giving-feedback
 [principles]: #principles
@@ -10,6 +11,7 @@
 [ticket-and-pr-process]: #ticket-and-pr-process
 [hiring]: #hiring
 [onboarding]: #onboarding
+[team-building]: #team-building
 [announcing-change]: #announcing-change
 [managing-up]: #managing-up
 [further-reading]: #further-reading
@@ -25,6 +27,7 @@ Initially forked from [Kamil Sindi](https://github.com/ksindi/managers-playbook)
 1. [What makes a great engineering manager?][what-makes-a-great-manager]
 1. [How technical should I be?][how-technical-should-i-be]
 1. [One-on-ones][one-on-ones]
+1. [Effective Teams][effective-teams]
 1. [Coaching][coaching]
 1. [Giving Feedback][giving-feedback]
 1. [Principles][principles]
@@ -33,6 +36,7 @@ Initially forked from [Kamil Sindi](https://github.com/ksindi/managers-playbook)
 1. [Ticket and PR process][ticket-and-pr-process]
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
+1. [Team Building][team-building]
 1. [Managing up][managing-up]
 1. [Announcing change][announcing-change]
 1. [Further reading][further-reading]
@@ -117,6 +121,9 @@ It's your job as a manager to make sure your team is running as effectively as p
 Lacking these pillars (credit to Dan Pink), teams risk being less effective and may experience diminished motivation.
 
 For further reading, check out [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819), which goes deeper into team organization theory.
+
+### What is a high performing Team?
+- https://www.mountaingoatsoftware.com/blog/what-is-a-high-performing-agile-team
 
 ## Coaching
 
