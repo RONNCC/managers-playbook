@@ -8,6 +8,7 @@
 [principles]: #principles
 [thinking-strategically]: #thinking-strategically
 [making-decisions]: #making-decisions
+[driving-velocity]: #driving-velocity
 [ticket-and-pr-process]: #ticket-and-pr-process
 [hiring]: #hiring
 [onboarding]: #onboarding
@@ -33,6 +34,7 @@ Initially forked from [Kamil Sindi](https://github.com/ksindi/managers-playbook)
 1. [Principles][principles]
 1. [Thinking strategically][thinking-strategically]
 1. [Making decisions][making-decisions]
+1. [Driving Velocity][driving-velocity]
 1. [Ticket and PR process][ticket-and-pr-process]
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
