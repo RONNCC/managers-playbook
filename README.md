@@ -129,7 +129,7 @@ For further reading, check out [Team Topologies](https://www.amazon.com/Team-Top
 
 ### What is a high performing Team?
 
-- Independent, Autonomous, Execution
+- Independent, Autonomous, High Execution (incl fail fast)
   - "What do we want to achieve" not "what should we build"
 
 > A high-performing team sustainably exceeds expectations in achieving clear goals.
