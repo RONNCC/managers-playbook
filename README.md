@@ -258,6 +258,9 @@ Regardless, everyone should be aware the decision is ultimately yours and the te
 to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made. In my experience, even dissenters will commit to the decision if they feel heard and appreciate you were decisive.
 1. Document your decisions so that you can refer to why they were made and the tradeoffs your team faced.
 
+## Driving Velocity
+
+
 ## Ticket and PR process
 
 1. Set contributing guidelines for the team.
