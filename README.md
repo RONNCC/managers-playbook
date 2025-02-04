@@ -55,6 +55,10 @@ Your job first and foremost is to execute. As a manager, you are a leader who ha
 
 An exceptional engineering manager elevates the team's standards by fostering a culture of continuous improvement and innovation. Every week should mark a new milestone, with the team surpassing its previous achievements in efficiency, creativity, and problem-solving. You don’t just manage; you lead by example, inspiring a sharper focus and a profound sense of purpose. The progress is tangible and energizing. While staff engineers act as force multipliers through technology, you serve as a multiplier through people.
 
+
+### Why do you want to be an EM?
+Amplifying impact. As an EM, you build bridges between brilliant minds, inspire growth, and create an environment where innovation thrives. You'll transform challenges into opportunities and empower others to reach their full potential
+
 ## How technical should I be?
 
 Effective engineering managers ought to possess a strong technical background, having firsthand experience with the challenges their teams encounter. I advise individuals to consider transitioning into management only after reaching at least a senior engineer level and ideally have at least 10 years of technical individual contributor experience. It's essential to bear the battle scars of technical endeavors.
