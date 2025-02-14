@@ -9,6 +9,7 @@
 [thinking-strategically]: #thinking-strategically
 [making-decisions]: #making-decisions
 [driving-velocity]: #driving-velocity
+[managing-performance]: #managing-performance
 [ticket-and-pr-process]: #ticket-and-pr-process
 [hiring]: #hiring
 [onboarding]: #onboarding
@@ -35,6 +36,7 @@ Initially forked from [Kamil Sindi](https://github.com/ksindi/managers-playbook)
 1. [Thinking strategically][thinking-strategically]
 1. [Making decisions][making-decisions]
 1. [Driving Velocity][driving-velocity]
+1. [Managing Performance][managing-performance]
 1. [Ticket and PR process][ticket-and-pr-process]
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
@@ -264,6 +266,9 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 ## Driving Velocity
 
+
+## Managing Performance
+- Understand root cause (skill, motivation, personal)
 
 ## Ticket and PR process
 
