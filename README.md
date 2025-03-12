@@ -141,6 +141,12 @@ For further reading, check out [Team Topologies](https://www.amazon.com/Team-Top
 > A high-performing team sustainably exceeds expectations in achieving clear goals.
 - https://www.mountaingoatsoftware.com/blog/what-is-a-high-performing-agile-team
 
+### How do you know your team is executing well? 
+- delivers projects on time and within budget (ideally good balance of baseline + stretch goals) 
+- consistently delivers high-quality products or services
+- good team culture (collaborative + growth mindset)
+- seeks and implements improvements in processes and practices
+
 ## Coaching
 
 Coaching is the most important skill a manager can have. It's the best way to help your reports grow and take ownership of their work.
